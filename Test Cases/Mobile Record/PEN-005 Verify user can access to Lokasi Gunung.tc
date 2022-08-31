@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PEN-005 Verify user can access to Lokasi Gunung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38c5ce5d-9229-461f-ab2a-c206394fd31a</testCaseGuid>
+</TestCaseEntity>
